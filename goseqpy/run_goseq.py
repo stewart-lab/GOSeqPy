@@ -52,6 +52,7 @@ def run_GOseq(de_genes, all_genes, gene_to_gene_sets, gene_lens):
     df_res = df_res.set_index('category')
     return df_res
 
+
 def parse_gmt(gene_sets_f):
     gene_set_to_genes = {}
     with open(gene_sets_f, 'r') as f:
@@ -62,36 +63,6 @@ def parse_gmt(gene_sets_f):
             gene_set_to_genes[gene_set] = genes
     return gene_set_to_genes
 
-
-def main():
-    usage = "" # TODO
-    parser = OptionParser(usage=usage)
-    parser.add_option("-t", "--transpose", action="store_true", help="Take transpose of input")
-    parser.add_option("-o", "--out_file", help="Output file")
-    (options, args) = parser.parse_args()
-
-    with open('../raw_data/Albany_and_Englert/ebseq_ARDS.COVID.v.NO_HSCT/Down.Genes.pp95.txt', 'r') as f:
-        de_genes = [l.strip() for l in f]
-
-    df = pd.read_csv('../raw_data/AHNMJYDMXX_rsem/genes.tpm.no_hg.no_C054.tab', sep='\t', index_col=0)
-    all_genes = list(df.index)
-
-
-    len_df = pd.read_csv('effective_gene_length.tsv', sep='\t', index_col=0)
-    len_df = len_df.loc[all_genes]
-    print(len_df)
-
-    assert set(de_genes) < set(all_genes)
-
-    #gene_set_to_genes = _parse_gene_sets('../gene_sets/h.all.v7.1.symbols.gmt') 
-    gene_set_to_genes = _parse_gene_sets('../gene_sets/c5.bp.v7.1.symbols.gmt')
-    gene_to_gene_sets = defaultdict(lambda: [])
-    for gene_set, genes in gene_set_to_genes.items():
-        for gene in genes:
-            gene_to_gene_sets[gene].append(gene_set)
-    gene_to_gene_sets = dict(gene_to_gene_sets)
-    
-    run_GOseq(de_genes, all_genes, gene_to_gene_sets, list(len_df['effective_length']))
 
 if __name__ == "__main__":
     main()
