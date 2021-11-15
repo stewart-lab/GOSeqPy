@@ -1,5 +1,5 @@
 ##############################################################################
-#   Given a TSV file of expression data, run the GSVA algorithm
+#   Run the GOSeq R package from within Python by using r2py
 ##############################################################################
 
 from optparse import OptionParser
