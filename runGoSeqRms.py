@@ -5,18 +5,11 @@ import goseqpy as gsp
 
 import sys
 import os
-import rmstime
-import rmscmdline
-import rmslogging
+import cmdlogtime
 COMMAND_LINE_DEF_FILE = "./runGoSeqCommandLine.txt"
 
 def main():
-    (start_time_secs, pretty_start_time) = rmstime.get_time_and_pretty_time()
-    print("pretty_start:", pretty_start_time)
-    
-    my_args = rmscmdline.get_args(start_time_secs, pretty_start_time, COMMAND_LINE_DEF_FILE)
-    logfile = rmslogging.open_log_file(my_args["log_file"])
-    rmslogging.write_args_and_files(my_args, sys.argv[0], COMMAND_LINE_DEF_FILE, logfile)
+    (start_time_secs, pretty_start_time, my_args, logfile) = cmdlogtime.begin(COMMAND_LINE_DEF_FILE, sys.argv[0])
     
     in_file = my_args["in_file"]
     out_file = os.path.join(my_args["out_dir"], "output.tsv")
@@ -108,10 +101,7 @@ def main():
     #print(results)
     results.to_csv(out_file, sep='\t')
 
-    rmslogging.close_log_file(logfile)  
-    (end_time_secs, x) = rmstime.get_time_and_pretty_time()
-    total_elapsed_time = end_time_secs - start_time_secs
-    print("All done. Total elapsed time: " + str(total_elapsed_time) + " seconds.\n")      
+    cmdlogtime.end(logfile, start_time_secs)  
 
 if __name__ == "__main__":
     main()
