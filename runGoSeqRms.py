@@ -80,7 +80,9 @@ def main():
     de_genes = example_data['de_genes']
 
     # Load gene set to genes mapping
-    gs_to_genes = gsp.parse_gmt('./gene_sets/c5.bp.v7.1.symbols.gmt')
+    gs_to_genes = gsp.parse_gmt('./gene_sets/c5.bp.v7.1.symbols.gmt')  #all
+    #gs_to_genes = gsp.parse_gmt('./gene_sets/c5.bp.v7.1.symbols_leuk_only.gmt')  #leuk only
+
 
     # Map each gene to its gene set
     gene_to_gene_sets = defaultdict(lambda: [])
