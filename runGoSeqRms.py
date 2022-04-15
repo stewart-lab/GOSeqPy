@@ -7,10 +7,8 @@ import sys
 import os
 import cmdlogtime
 COMMAND_LINE_DEF_FILE = "./runGoSeqCommandLine.txt"
-
 def main():
-    (start_time_secs, pretty_start_time, my_args, logfile) = cmdlogtime.begin(COMMAND_LINE_DEF_FILE, sys.argv[0])
-    
+    (start_time_secs, pretty_start_time, my_args, logfile) = cmdlogtime.begin(COMMAND_LINE_DEF_FILE)   
     in_file = my_args["in_file"]
     out_file = os.path.join(my_args["out_dir"], "output.tsv")
     final_json = os.path.join(my_args["out_dir"], "json_final.json")
@@ -103,7 +101,7 @@ def main():
     #print(results)
     results.to_csv(out_file, sep='\t')
 
-    cmdlogtime.end(logfile, start_time_secs)  
+    cmdlogtime.end(logfile, start_time_secs) 
 
 if __name__ == "__main__":
     main()
