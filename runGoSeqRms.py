@@ -1,11 +1,10 @@
 import json
 from collections import defaultdict
-
 import goseqpy as gsp
-
 import sys
 import os
 import cmdlogtime
+
 COMMAND_LINE_DEF_FILE = "./runGoSeqCommandLine.txt"
 def main():
     (start_time_secs, pretty_start_time, my_args, logfile) = cmdlogtime.begin(COMMAND_LINE_DEF_FILE)   
@@ -13,7 +12,6 @@ def main():
     out_file = os.path.join(my_args["out_dir"], "output.tsv")
     final_json = os.path.join(my_args["out_dir"], "json_final.json")
     has_no_header = my_args["has_no_header_line"]
-    print(has_no_header)
     p_value_col = my_args["p_value_col"]
     p_val_cutoff = my_args["p_value"]
     log2_fc_col = my_args["log2_fc_col"]
@@ -25,7 +23,6 @@ def main():
     if (in_file.endswith(".json")):
         json_file = in_file
     else:
-        print("here need to process input file and write new json file")
         with open(in_file, "r") as in_gene_file: #, open('example_data_template.json') as json_template:  
             line_ctr = 0
             num_lines = len(in_gene_file.readlines())
@@ -41,21 +38,16 @@ def main():
                     p_val = float(parts[p_value_col])
                     p_val_cutoff = float(p_val_cutoff)
                     if (p_val >= p_val_cutoff):
-                        print ("continuingP:", p_val,  " cutoff:", p_val_cutoff)
+                        #print ("continuingP:", p_val,  " cutoff:", p_val_cutoff)
                         continue
                 if (log2_fc_col):
                     log2_fc_col = int(log2_fc_col)
                     log2_fc = float(parts[log2_fc_col])
                     log2_fc_cutoff = float(log2_fc_cutoff)
                     if (abs(log2_fc) < log2_fc_cutoff):
-                        print ("continuingFC:", log2_fc,  " cutoff:", log2_fc_cutoff)
+                        #print ("continuingFC:", log2_fc,  " cutoff:", log2_fc_cutoff)
                         continue        
-                #maybe_comma = ","
-                #if line_ctr == num_lines:
-                #    maybe_comma = ""
                 genes_to_write.append(gene)
-                #out_json_file.write('"' + gene + '"' + maybe_comma + '\n')
-            #out_json_file.write(" ]\n}\n")    
         num_genes_to_write = len(genes_to_write)
         with open('example_data_template.json') as json_template, open(json_file, 'w') as out_json_file:
             for line in json_template:
@@ -80,7 +72,6 @@ def main():
     # Load gene set to genes mapping
     gs_to_genes = gsp.parse_gmt('./gene_sets/c5.bp.v7.1.symbols.gmt')  #all
     #gs_to_genes = gsp.parse_gmt('./gene_sets/c5.bp.v7.1.symbols_leuk_only.gmt')  #leuk only
-
 
     # Map each gene to its gene set
     gene_to_gene_sets = defaultdict(lambda: [])
