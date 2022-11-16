@@ -16,3 +16,6 @@ in_file|input file of gene names (or .json file)|0|0|0|1|1|||
 -log2fc|minimum log fold change|0|0|0|0|0|--log2_fc|1.5|
 -log2fccol|column of log2 fold changes (first col is 0)|0|0|0|0|0|--log2_fc_col||
 -mean|minimum mean|0|0|0|0|0|--min_mean||
+-spec|species used|0|0|0|0|0|--species|human|
+-geneset|gene set file to use. Overrides default specified by species|0|0|0|1|1|--geneset_file|ALLZZZ|
+-idcol|column of gene identifier (first col is 0)|0|0|0|0|0|--id_col|0|

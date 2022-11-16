@@ -1,0 +1,500 @@
+   19  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   20  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   21  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   22  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   23  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   24  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   25  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   26  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_super_short_v8/ -scoreType=FET -numofpcs=3
+   27  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v9/ -scoreType=FET -numofpcs=3
+   28  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=2
+   29  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v10/ -scoreType=FET -numofpcs=2
+   30  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=2
+   31  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=2
+   32  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=2
+   33  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=2
+   34  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=2
+   35  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=3
+   36  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v8/ -scoreType=FET -numofpcs=3
+   37  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v11/ -scoreType=FET -numofpcs=2
+   38  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/MarkerListsC5GMT/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_AllC5GMT_markers_v1/ -scoreType=FET -numofpcs=2
+   39  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/MarkerListsC5GMT/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_AllC5GMT_markers_v1/ -scoreType=FET -numofpcs=2
+   40  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v12/ -scoreType=FET -numofpcs=2
+   41  pwd
+   42  cd ../4.2.7
+   43  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v12/ -scoreType=FET -numofpcs=2
+   44  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v13/ -scoreType=FET -numofpcs=2
+   45  pwd
+   46  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_short  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v14/ -scoreType=FET -numofpcs=2
+   47  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v15/ -scoreType=FET -numofpcs=2
+   48  pwd
+   49  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v17/ -scoreType=FET -numofpcs=3
+   50  pwd
+   51  pwd
+   52  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/MarkerListsC5GMT/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_AllC5GMT_markers_v2_4pcs/ -scoreType=FET -numofpcs=4
+   53  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/MarkerListsC5GMT/  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_AllC5GMT_markers_v2_4pcs/ -scoreType=FET -numofpcs=4
+   54  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v18/ -scoreType=FET -numofpcs=3
+   55  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v19/ -scoreType=FET -numofpcs=5
+   56  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v20/ -scoreType=FET -numofpcs=5
+   57  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v21/ -scoreType=FET -numofpcs=5
+   58  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v22/ -scoreType=FET -numofpcs=5
+   59  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v22/ -scoreType=FET -numofpcs=2
+   60  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v22/ -scoreType=FET -numofpcs=2
+   61  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v23/ -scoreType=FET -numofpcs=2
+   62  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v23/ -scoreType=FET -numofpcs=2
+   63  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v24/ -scoreType=FET -numofpcs=2
+   64  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44_25_30.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale.pdf F 25 30 2 2 blue,black,red
+   65  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44_25_30.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale.pdf F 25 30 2 2 blue,black,red
+   66  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44_25_30.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 25 30 2 2 blue,black,red
+   67  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44_25_30.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 25 40 2 2 blue,black,red
+   68  Rscript ../R_Lib//HC_rb_upgradeV4.R 
+   69  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 25 40 2 2 blue,black,red
+   70  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 25 30 2 2 blue,black,red
+   71  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 25 100 2 2 blue,black,red
+   72  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 50 40 2 2 blue,black,red
+   73  Rscript ../R_Lib//HC_rb_upgradeV4.R ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44.txt T T 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedSCacrossCells2022-07-13_14-31-44.txt F 0 F ../../TestsSummer2022/fan_some_markers_list_v24//proportionOfExpressionByCellAllListsTransposedUNSC2022-07-13_14-31-44ScaledAcrossCellsViaRMSScale2.pdf F 30 40 2 2 blue,black,red
+   74  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v25/ -scoreType=FET -numofpcs=2
+   75  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v26/ -scoreType=FET -numofpcs=2
+   76  Rscript ../R_Lib//HC_rb_upgrade.R ../../TestsSummer2022/fan_some_markers_list_v26//PC_2022-07-13_14-56-22_GO_Z_VACUOLE_ORGANIZATION_BaseDir//allEnrichedMarkerorGO_GenesExpressionFileWithAnnot.txt T T T 5 F ../../TestsSummer2022/fan_some_markers_list_v26//PC_2022-07-13_14-56-22_GO_Z_VACUOLE_ORGANIZATION_BaseDir//HighAbsLoadingGenesAndEnrichedMarkers_heatmap2.pdf F 25 20 blue,black,red
+   77  Rscript ../R_Lib//HC_rb_upgrade.R ../../TestsSummer2022/fan_some_markers_list_v26//PC_2022-07-13_14-56-22_GO_Z_VACUOLE_ORGANIZATION_BaseDir//allEnrichedMarkerorGO_GenesExpressionFileWithAnnot.txt T T T 5 F ../../TestsSummer2022/fan_some_markers_list_v26//PC_2022-07-13_14-56-22_GO_Z_VACUOLE_ORGANIZATION_BaseDir//HighAbsLoadingGenesAndEnrichedMarkers_heatmap3.pdf F 15 30 blue,black,red
+   78  Rscript ../R_Lib//HC_rb_upgrade.R ../../TestsSummer2022/fan_some_markers_list_v26//PC_2022-07-13_14-56-22_GO_Z_VACUOLE_ORGANIZATION_BaseDir//allEnrichedMarkerorGO_GenesExpressionFileWithAnnot.txt T T T 5 F ../../TestsSummer2022/fan_some_markers_list_v26//PC_2022-07-13_14-56-22_GO_Z_VACUOLE_ORGANIZATION_BaseDir//HighAbsLoadingGenesAndEnrichedMarkers_heatmap4.pdf F 15 50 blue,black,red
+   79  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../pcame_fan/some_marker_lists_super_short2  -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_some_markers_list_v27/ -scoreType=FET -numofpcs=2
+   80  perl ./runPCA_onGeneExprDataV4.2.7.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/finalTissueLists6_dirBased_noHK/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_finalTissueLists_v1/ -scoreType=FET -numofpcs=5
+   81  pwd
+   82  cd ..
+   83  cd PCAME_new/
+   84  ls
+   85  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   86  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   87  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   88  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   89  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   90  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   91  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   92  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   93  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txxt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   94  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5
+   95  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=4-17
+   96  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=-17
+   97  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=17
+   98  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=3-8
+   99  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=8-
+  100  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=8-
+  101  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=8-
+  102  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=8-
+  103  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=1-
+  104  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numgenesrequiredrange=1-
+  105  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/ -scoreType=FET -numofpcs=5 -numenrichedgenesrequiredrange=1-
+  106  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v31/ -scoreType=FET -numofpcs=5 -numenrichedgenesrequiredrange=1-7
+  107  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/ -scoreType=FET -numofpcs=5 -numenrichedgenesrequiredrange=-7
+  108  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/ -scoreType=FET -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  109  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/ -scoreType=FET -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  110  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/ -scoreType=FET -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  111  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/ -scoreType=FET -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  112  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/ -scoreType=FET -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  113  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v33/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  114  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  115  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  116  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v30/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  117  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v31/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  118  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v31/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  119  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v31/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  120  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v31/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  121  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v32/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  122  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v33/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  123  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v33/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  124  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v33/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  125  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  126  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  127  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  128  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  129  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  130  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  131  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v34/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  132  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v35/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  133  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v35/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  134  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v36/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  135  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v36/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  136  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v36/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  137  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v36/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  138  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v36/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  139  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v36/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  140  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  141  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  142  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  143  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  144  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  145  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  146  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  147  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  148  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  149  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  150  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  151  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  152  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  153  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  154  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  155  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  156  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  157  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v37/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  158  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_supershort_v38/  -numofpcs=2 -numenrichedgenesrequiredrange=1-
+  159  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/finalTissueLists6_dirBased_noHK/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_hopkins_require3-8enrichedgenes/  -numofpcs=4 -numenrichedgenesrequiredrange=3-8
+  160  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/finalTissueLists6_dirBased_noHK/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/fan_hopkins_require1orMoreenrichedgenes/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  161  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/38/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  162  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  163  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  164  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  165  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  166  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  167  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  168  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  169  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  170  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/39/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  171  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/40/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  172  perl ./runPCA_onGeneExprData.pl -R_dir=../R_Lib/ -inExprFile=../../pcame_fan/fpkmUpper.txt -markerListDir=../../PCAME/MarkerLists/some_marker_lists_super_short2/ -markerSubDirMode=1 -outdir=../../TestsSummer2022/40/  -numofpcs=4 -numenrichedgenesrequiredrange=1-
+  173  pwd
+  174  ssh rstewart@mir-49.morgridge.us
+  175  pwd
+  176  pwd
+  177  pwd
+  178  cd Desktop/
+  179  mkdir demo_roc_pr
+  180  git clone git@githumb.com:stewart-lab/rms_pkgs.git
+  181  cd demo_roc_pr/
+  182  git clone git@github.com:stewart-lab/rms_pkgs.git
+  183  ls
+  184  ls rms_pkgs/
+  185  cd src
+  186  pwd
+  187  cd rms_pkgs/
+  188  ls src/
+  189  ls src/cmdlogtime/
+  190  pwd
+  191  cd ..
+  192  git clone git@github.com:stewart-lab/ROC_and_PR.git
+  193  ls
+  194  python -m venv .venv
+  195  ls
+  196  ls rms_pkgs/
+  197  more rms_pkgs/example_code_and_command_file/
+  198  more rms_pkgs/example_code_and_command_file/*
+  199  ls
+  200  more ROC_and_PR/requirements.txt 
+  201  pip install sklearn
+  202  pip install numpy
+  203  pip install matplotlib
+  204  pwd
+  205  ls
+  206  cd ROC_and_PR/
+  207  ls
+  208  more turn_on_env.sh 
+  209  export PYTHONPATH=$PYTHONPATH:../rms_pkgs/src/cmdlogtime/
+  210  pwd
+  211  ls
+  212  python computeROC.py -h
+  213  python computeROC.py outTest ./testInputForROC/just_Covid_negativesThrombOrNotWithCore98.txt 
+  214  ls
+  215  pwd
+  216  python computeROC.py outTest ./testInputForROC/just_Covid_negativesThrombOrNotWithCore98.txt -print_x_thresh=3
+  217  echo $PYTHONPATH
+  218  pwd
+  219  ls
+  220  ls -al
+  221  diff computeROC /Users/Ron/Desktop/Word2Vec2/W2VCode/
+  222  diff computeROC.py /Users/Ron/Desktop/Word2Vec2/W2VCode/
+  223  python computeROC.py outTest ./testInputForROC/just_Covid_negativesThrombOrNotWithCore98_2cols.txt -print_x_thresh=3
+  224  python computeROC.py outTest ./testInputForROC/just_Covid_negativesThrombOrNotWithCore98_2colsUnsorted.txt -print_x_thresh=1
+  225  pwd
+  226  ssh rstewart@mir-37.morgridge.us
+  227  ssh -L 5024:localhost:5024 rstewart@mir-37.morgridge.us
+  228  pwd
+  229  ls
+  230  cd Desktop/ProjectsAndPeople/PCAME_all/
+  231  ls
+  232  cd TestsSummer2022/
+  233  ls
+  234  cd tattersallExp2_C5GMT6orMore/
+  235  ls
+  236  ls *BaseDir
+  237  ls *BaseDir/
+  238  ls *BaseDir/command.txt
+  239  ls *BaseDir/command.txt | wc
+  240  ls *BaseDir/command.txt | wc
+  241  ls *BaseDir/command.txt | wc
+  242  ls *BaseDir/command.txt | wc
+  243  ls *BaseDir/command.txt | wc
+  244  exit
+  245  ssh rstewart@mir-49.morgridge.us
+  246  pwd
+  247  ls
+  248  exit
+  249  cd Desktop/ProjectsAndPeople/PCAME_all/
+  250  ls
+  251  cd pcame_fan/
+  252  ls
+  253  pwd
+  254  cd ..
+  255  ls
+  256  cd TestsSummer2022/
+  257  ls
+  258  cd fan_AllC5GMT_markers_v1/
+  259  ls | wc 
+  260  ls
+  261  ls | wc 
+  262  ls | grep -i 'basedir' | wc
+  263  ls | grep -i 'basedir' | wc
+  264  ls | grep -i 'basedir' | wc
+  265  ls | grep -i 'basedir' | wc
+  266  ls | grep -i 'basedir' | wc
+  267  ls | grep -i 'basedir' | wc
+  268  ls | grep -i 'basedir' | wc
+  269  ls | grep -i 'basedir' | wc
+  270  ls | grep -i 'basedir' | wc
+  271  ls | grep -i 'basedir' | wc
+  272  ls | grep -i 'basedir' | wc
+  273  ls | grep -i 'basedir' | wc
+  274  exit
+  275  pwd
+  276  exit
+  277  exit
+  278  exit
+  279  exit
+  280  ls
+  281  pwd
+  282  ls
+  283  exit
+  284  exit
+  285  history > /Users/Ron/Desktop/history08052022.txt
+  286  exit
+  287  history
+  288  history > /Users/Ron/Desktop/history08052022_2.txt
+  289  exit
+  290  history
+  291  history > /Users/Ron/Desktop/history08052022_3.txt
+  292  exit
+  293  pwd
+  294  ls
+  295  perl findCommonGenesInTwoFiles.pl -h
+  296  perl findCommonGenesInTwoFiles.pl -help
+  297  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.json -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.json -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2
+  298  perl findCommonGenesInTwoFiles.pl -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.json -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.json -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon2_and_in_json1
+  299  perl findCommonGenesInTwoFiles.pl -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.json -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.json -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon2_not_in_json1 -iorc=c
+  300  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.json -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.json -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2 -iorc=c
+  301  wc -l /Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.json
+  302  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.json -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.json -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2 -iorc=c
+  303  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2 -iorc=c
+  304  perl win2Unix.pl /Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt 
+  305  perl win2Unix.pl /Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt 
+  306  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2 -iorc=c
+  307  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2 -iorc=c -help
+  308  perl findCommonGenesInTwoFiles.pl -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_not_in_json2 -iorc=c -col1f1=0 -col1f2=0 -col2f1=0 -col2f2=0
+  309  perl findCommonGenesInTwoFiles.pl -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon2_not_in_json1.txt -iorc=c -col1f1=0 -col1f2=0 -col2f1=0 -col2f2=0
+  310  perl findCommonGenesInTwoFiles.pl -infile2=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_1_justTopWords.txt -infile1=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/top_word_probabilities_2_justTopWords.txt -hasheader=0 -printHeader=0 -outfile=/Users/Ron/Desktop/BertAttempts/pubmedBert/outTopWords/2022_06_21_08_53_45/wordsInJSon1_and_json1.txt  -col1f1=0 -col1f2=0 -col2f1=0 -col2f2=0
+  311  cd ../PCAME_docker/
+  312  perl ./hello_world.pl 
+  313  perl ./hello_world.pl 
+  314  docker build -t perl-hw-app
+  315  which Docker
+  316  docker -v
+  317  docker build -t hello-world-app .
+  318  docker run hello-world-app
+  319  docker build -t hello-world-pr-app .
+  320  docker build -t hello-world-app .
+  321  docker pull debian
+  322  docker build -t hello-world-app .
+  323  docker build -t hello-world-app .
+  324  docker run hello-world-app
+  325  docker build -t hello-world-app .
+  326  docker build -t hello-world-app .
+  327  docker build -t hello-world-app .
+  328  docker build -t hello-world-app .
+  329  make
+  330  make
+  331  docker build -t hello-world-app .
+  332  docker build -t hello-world-app .
+  333  docker build -t hello-world-app .
+  334  docker build -t hello-world-app .
+  335  yum
+  336  yum
+  337  docker build -t hello-world-app .
+  338  docker run hello-world-app
+  339  docker build -t hello-world-app .
+  340  docker run hello-world-app
+  341  docker build -t hello-world-app .
+  342  docker run hello-world-app
+  343  ls
+  344  cp Dockerfile ../ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/
+  345  cd ../ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/
+  346  ls
+  347  more hello_world.pl 
+  348  docker build -t hello-world-app .
+  349  docker run hello-world-app
+  350  more Dockerfile 
+  351  docker build -t hello-world-app .
+  352  docker run hello-world-app
+  353  docker run hello-world-app
+  354  docker build -t hello-world-app .
+  355  docker run hello-world-app
+  356  ls
+  357  more Dockerfile.txt 
+  358  mv Dockerfile.txt Dockerfile
+  359  ls
+  360  docker build -t hello-world-app .
+  361  docker run hello-world-app
+  362  ls
+  363  pwd
+  364  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app -R_dir=/mnt/scripts/../R_lib/
+  365  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app -R_dir=/mnt/scripts//R_lib/
+  366  ls /Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/R_Lib/
+  367  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app -R_dir=/mnt/scripts/R_lib/
+  368  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app -R_dir /mnt/scripts/R_lib/
+  369  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app --R_dir=/mnt/scripts/R_lib/
+  370  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app --R_dir /mnt/scripts/R_lib/
+  371  ls /Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/R_Lib/
+  372  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app -R_dir /mnt/scripts/R_Lib/
+  373  docker run --rm -v "/Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/":/mnt/scripts hello-world-app -R_dir=/mnt/scripts/R_Lib/
+  374  ls /Users/Ron/Desktop/ProjectsAndPeople/PCAME_all/PCAME/PCAME_new/R_Lib/
+  375  history
+  376  history > /Users/Ron/Desktop/history08052022_4.txt
+  377  exit
+  378  cd Desktop/GSVA/
+  379  ls
+  380  cd GSVApy/
+  381  ls
+  382  python run_gsva.py -h
+  383  python run_gsva.py -h
+  384  exit
+  385  ssh -C -l 1235:localhost:1235 skim.morgridge.us
+  386  ssh -C -l rstewart 1235:localhost:1235 skim.morgridge.us
+  387  ssh -C -l rstewart 1235:localhost:1235 mir-37.morgridge.us
+  388  ssh -C -l rstewart -L 1235:localhost:1235 mir-37.morgridge.us
+  389  ssh -C -l rstewart -L 1234:localhost:1234 mir-37.morgridge.us
+  390  ssh -C -l rstewart -L 1234:localhost:1234 mir-37.morgridge.us
+  391  cd Desktop/JackFreemanImageNomeApp/
+  392  ls
+  393  cd ImageNomeR/
+  394  ls
+  395  ls data
+  396  mv fmri-FC-slim.pkl data/
+  397  mv fmri-FC.pkl  data/
+  398  ls data
+  399  exit
+  400  cd Desktop/
+  401  mkdir JackFreemanImageNomeApp
+  402  cd JackFreemanImageNomeApp/
+  403  git clone https://github.com/u-brite/ImageNomeR.git
+  404  pip install -e .
+  405  pwd
+  406  ls
+  407  cd ImageNomeR/
+  408  ls
+  409  pip install -e .
+  410  ls
+  411  python data/getdata.py 
+  412  python3 data/getdata.py 
+  413  ls
+  414  python3 src/flask-backend/flask-backend.py 8000
+  415  sudo src/flask-backend/flask-backend.py 8000
+  416  python src/flask-backend/flask-backend.py 8000
+  417  sudo python src/flask-backend/flask-backend.py 8000
+  418  ls
+  419  pwd
+  420  cd src/
+  421  ls
+  422  cd flask-backend/
+  423  ls
+  424  vi flask-backend.py 
+  425  pwd
+  426  cd ..
+  427  cd ..
+  428  ls
+  429  cd static/
+  430  pwd
+  431  cd ..
+  432  ls
+  433  sudo python src/flask-backend/flask-backend.py
+  434  supython src/flask-backend/flask-backend.py
+  435  python src/flask-backend/flask-backend.py
+  436  sudo python src/flask-backend/flask-backend.py
+  437  exit
+  438  pwd
+  439  cd Desktop/JackFreemanImageNomeApp/
+  440  ls
+  441  cd ImageNomeR/
+  442  ls
+  443  jupyter notebook notebooks/fmri/fmri4LibWorkout.ipynb 
+  444  sudo jupyter notebook notebooks/fmri/fmri4LibWorkout.ipynb 
+  445  jupyter notebook notebooks/fmri/fmri4LibWorkout.ipynb 
+  446  pwd
+  447  ls
+  448  jupyter notebook
+  449  exit
+  450  cd Desktop/
+  451  wc -l km.users.txt 
+  452  grep -i guest km.users.txt 
+  453  grep -i guest km.users.txt  | wc
+  454  more km.users.txt 
+  455  cd Desktop/ActiveCollaborations/Tattersall/Tattersall_Exp1234_reruns_Aug2022/08302022/MW_out/exp1/
+  456  diff 2022_09_02_08_56_10/output_mw.tsv 2022_09_06_13_51_38/
+  457  diff 2022_09_02_08_56_10/output_mw.tsv 2022_09_06_13_51_38/
+  458  exit
+  459  cd Desktop/ActiveCollaborations/Tattersall/Tattersall_Exp1234_reruns_Aug2022/08302022/MW_out/exp1/
+  460  diff 2022_09_02_10_19_30/output_t.tsv 2022_09_02_10_20_49/
+  461  diff 2022_09_02_10_32_29/output_t.tsv  2022_09_02_10_32_59/
+  462  diff 2022_09_02_10_34_40/output_mw.tsv  2022_09_02_10_34_50/
+  463  diff 2022_09_02_10_37_25/output_mw.tsv  2022_09_02_10_37_58
+  464  diff 2022_09_02_09_04_23/output_t.tsv 2022_09_02_10_45_03/
+  465  diff 2022_09_02_09_04_23/output_t.tsv 2022_09_02_10_45_03/
+  466  diff 2022_09_02_09_04_23/output_t.tsv 2022_09_02_10_45_03/
+  467  diff 2022_09_02_08_56_10/output_mw.tsv  2022_09_02_10_51_05/
+  468  diff 2022_09_02_08_56_10/output_mw.tsv  2022_09_02_10_51_05/
+  469  diff 2022_09_02_08_56_10/output_mw.tsv  2022_09_02_10_51_05/
+  470  diff 2022_09_02_08_56_10/output_mw.tsv  2022_09_02_10_57_51/
+  471  diff 2022_09_01_09_51_00/output_mw.tsv  2022_09_02_10_57_51/
+  472  exit
+  473  exit
+  474  man ln
+  475  brew install kubernetes-cli
+  476  brew install kubernetes-cli
+  477  .libPaths('usr/local/lib/R/site-library')
+  478   brew link kubernetes-cli
+  479  cd Desktop/
+  480  mkdir flybaseStuff
+  481  cd flybaseStuff/
+  482  wget ftp://ftp.flybase.net/releases/current/precomputed_files/genes/fbgn_annotation_ID_*.tsv.gz
+  483  ls
+  484  gunzip fbgn_annotation_ID_fb_2022_05.tsv.gz 
+  485  ls
+  486  wget ftp://ftp.flybase.org/genomes/dmel/current/gff/
+  487  ftp ftp.flybase.org/genomes/dmel/current/gff/
+  488  man ftp
+  489  ftp.flybase.org/genomes/dmel/current/gff/
+  490  ftp://ftp.flybase.org/genomes/dmel/current/gff/
+  491  ls
+  492  more chado_dmel_gene_models.xml
+  493  pwd
+  494  more chado_dmel_gene_models.xml
+  495  pwd
+  496  ls
+  497  exit
+  498  sh -p 22 -C -l rstewart -L 1255:localhost:1255 mir-81.morgridge.us
+  499  ssh -p 22 -C -l rstewart -L 1255:localhost:1255 mir-81.morgridge.us
+  500  exit
+  501  exitpython runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_DownInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel.txt 
+  502  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_DownInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel.txt 
+  503  export PYTHONPATH=$PYTHONPATH:/Users/Ron/Desktop/rms_pkgs/src/cmdlogtime/
+  504  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_DownInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel.txt 
+  505  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_DownInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel.txt 
+  506  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_upInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel.txt 
+  507  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_expressingGermUpRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel.txt 
+  508  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_expressingGermUpRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel_plusMF.txt 
+  509  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_expressingGermUpRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_metab_differentiat_devel_plusMF.txt 
+  510  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_expressingGermUpRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  511  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_expressingGermUpRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  512  python runGoSeqRms.py ../goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_expressingGermUpRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  513  python runGoSeqRms.py ../flybaseStuff/goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_DownRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/fly_utils/src/out/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  514  python runGoSeqRms.py ../flybaseStuff/goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_firstfile_tkvqd_bamgfp_DownRegInBamGFP.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/out_genesetsAndJsonTemplatesAndGeneIsoformLengths/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  515  python runGoSeqRms.py ../flybaseStuff/goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_DownInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/out_genesetsAndJsonTemplatesAndGeneIsoformLengths/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  516  python runGoSeqRms.py ../flybaseStuff/goseq_out/ /Users/Ron/Desktop/flybaseStuff/fly_utils/data/WilcocksonAndAsheDE_lists/w_and_a_2019_TkvQD_vs_bamKD_upInbamKD.txt  -pvalcol=3 -pval=0.05 -log2fc=1.5 -log2fccol=2 -spec=drosophila -geneset=/Users/Ron/Desktop/flybaseStuff/out_genesetsAndJsonTemplatesAndGeneIsoformLengths/2022_11_01_16_33_05_NEW/genesets/drosophila_genesets_flydb_at_least_5_genes_forGOseq.txt 
+  517  R
+  518  history > /Users/Ron/Desktop/history_goseqCommands.txt
