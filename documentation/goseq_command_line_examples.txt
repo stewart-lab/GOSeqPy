@@ -123,3 +123,14 @@
   687  mkdir goseqpy/__pycache__/
   692  history | grep -i goseq
   693  history | grep -i goseq > goseq_command_line_examples.txt
+  
+  
+  FIX GENE DESCRIPTIONS EXAMPLE CALL:
+  Example command line:
+(base) F5KN104YF9VN:src Ron$ python fix_go_descriptions_from_goseq.py /Users/Ron/Desktop/fixedGoSeqOut/ /Users/Ron/Desktop/Drummond-Barbosa_flywork_Nov2022-2023/DDB_11042022/2022_11_02_10_16_15/GO_termsEnrichedInUpRegBamgfpVsTkvqd_cystoblastForTestingFixingDesc.tsv /Users/Ron/Desktop/flybaseStuff/fly_utils/data/go-basic.obo.txt -in_go_desc_sup=/Users/Ron/Desktop/flybaseStuff/fly_utils/data/goslim_drosophila.obo
+pretty_start: 2022_11_17_12_59_49
+outdir: /Users/Ron/Desktop/fixedGoSeqOut/2022_11_17_12_59_49
+indescfile: /Users/Ron/Desktop/flybaseStuff/fly_utils/data/go-basic.obo.txt
+indescfile: /Users/Ron/Desktop/flybaseStuff/fly_utils/data/goslim_drosophila.obo
+/Users/Ron/Desktop/fixedGoSeqOut/2022_11_17_12_59_49/out_goseq_fixed.tsv
+All done. Total elapsed time: 1.0 seconds.
