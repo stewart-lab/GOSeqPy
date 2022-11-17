@@ -54,12 +54,12 @@ def main():
         num_genes_to_write = len(genes_to_write)
         
         if (species == "human"):
-            json_template_file = 'example_data_template.json'
+            json_template_file = './data/example_data_template.json'
         elif (species == "drosophila_flydb"):
             #json_template_file = 'genes_and_gene_lengths_symbol_drosophila.json'  #make this file a parameter.
-            json_template_file = 'genes_and_gene_lengths_flydb_drosophila.json'
+            json_template_file = '../data/genes_and_gene_lengths_flydb_drosophila.json'
         elif (species == "drosophila_symbol"):
-            json_template_file = 'genes_and_gene_lengths_symbol_drosophila.json'
+            json_template_file = '../data/genes_and_gene_lengths_symbol_drosophila.json'
         else:
             print("Species: ", species, " not yet supported.")
             sys.exit(1)
@@ -86,13 +86,13 @@ def main():
     
     # Load gene set to genes mapping
     if (species == "human"):
-        gs_to_genes = gsp.parse_gmt('./gene_sets/c5.bp.v7.1.symbols.gmt')  #all
+        gs_to_genes = gsp.parse_gmt('../data/gene_sets/c5.bp.v7.1.symbols.gmt')  #all
     elif (species == "drosophila_flydb"):
         #gs_to_genes = gsp.parse_gmt('./gene_sets/drosophila_genesets_symbol4.txt')  #make this file a parameter
-        gs_to_genes = gsp.parse_gmt('./gene_sets/drosophila_genesets_flydb.txt')  #all
+        gs_to_genes = gsp.parse_gmt('../data/gene_sets/drosophila_genesets_flydb.txt')  #all
     elif (species == "drosophila_symbol"):
         #gs_to_genes = gsp.parse_gmt('./gene_sets/drosophila_genesets_symbol4.txt')  #make this file a parameter
-        gs_to_genes = gsp.parse_gmt('./gene_sets/drosophila_genesets_symbol.txt')  #all
+        gs_to_genes = gsp.parse_gmt('../data/gene_sets/drosophila_genesets_symbol.txt')  #all
     else:
         print("Species: ", species, " not yet supported.")
         sys.exit(1)
