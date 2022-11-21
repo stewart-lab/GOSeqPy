@@ -108,20 +108,24 @@ def main():
             gene_to_gene_sets[gene].append(gene_set)    
     gene_to_gene_sets = dict(gene_to_gene_sets)
     
-    #import pdb
-    #pdb.set_trace()
-    # Run GOSeq
-    results = gsp.run_GOseq(
-        de_genes, 
-        all_genes, 
-        gene_to_gene_sets, 
-        gene_lens
-    )
-
+    try: 
+        # Run GOSeq
+        results = gsp.run_GOseq(
+            de_genes, 
+            all_genes, 
+            gene_to_gene_sets, 
+            gene_lens
+        )
+        results.to_csv(out_file, sep='\t')
+    except Exception as e:
+        print("Error: ", e)
+        if (e.__str__().endswith("incorrect number of dimensions\n")):
+            print("Might  be a problem with using -spec=drosophila_flydb and the ids used in the Gene Set file are symbols. Check parameters")
+        else:
+            print("Some error. Not the dimension error.")
     # Show the results
     #print(results)
-    results.to_csv(out_file, sep='\t')
-
+    
     cmdlogtime.end(logfile, start_time_secs) 
 
 if __name__ == "__main__":
