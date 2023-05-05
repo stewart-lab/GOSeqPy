@@ -1,0 +1,5 @@
+R[write to console]: Warning message:
+
+R[write to console]: In pcls(G) :
+R[write to console]:  initial point very close to some inequality constraints
+

@@ -1,0 +1,8 @@
+Loading required package: BiasedUrn
+Loading required package: geneLenDataBase
+
+Using manually entered categories.
+For 11793 genes, we could not find any categories. These genes will be excluded.
+To force their use, please run with use_genes_without_cat=TRUE (see documentation).
+This was the default behavior for version 1.15.1 and earlier.
+Calculating the p-values...

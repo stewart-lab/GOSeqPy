@@ -1,1 +1,9 @@
-(base) F5KN104YF9VN:GOSeqPy-main Ron$  python runGoSeqRms.py ../goseq_out/ ../ActiveCollaborations/Tattersall/GOSeq_Tattersall/inputData_goseq/TattersallExp2//vaper.post_v_pre/group/all.Up.deSeq2.tsv  -pvalcol=5 -pval=0.05 -log2fc=1.5 -log2fccol=2
+For running on Ron's old Trashcan:
+pwd
+/Users/Ron/Desktop/GeneSetEnrichment_General/GOSeqPy/src
+
+python runGoSeqRms.py ../goseq_out/ ../ActiveCollaborations/Tattersall/GOSeq_Tattersall/inputData_goseq/TattersallExp2//vaper.post_v_pre/group/all.Up.deSeq2.tsv  -pvalcol=5 -pval=0.05 -log2fc=1.5 -log2fccol=2
+
+For running anywhere:
+
+python runGoSeqRms.py ../goseq_out/ ../data/all.Up.deSeq2.tsv  -pvalcol=5 -pval=0.05 -log2fc=1.5 -log2fccol=2
