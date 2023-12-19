@@ -39,19 +39,22 @@ def main():
                     continue
                 parts = line.strip().split("\t")
                 gene = parts[id_col]
-                if p_value_col:
-                    p_value_col = int(p_value_col)
-                    p_val = float(parts[p_value_col])
-                    p_val_cutoff = float(p_val_cutoff)
-                    if p_val >= p_val_cutoff:
-                        continue
-                if log2_fc_col:
-                    log2_fc_col = int(log2_fc_col)
-                    log2_fc = float(parts[log2_fc_col])
-                    log2_fc_cutoff = float(log2_fc_cutoff)
-                    if abs(log2_fc) < log2_fc_cutoff:
-                        continue
-                genes_to_write.append(gene)
+                if len(parts) < 2:
+                    genes_to_write.append(gene)
+                else:
+                    if p_value_col:
+                        p_value_col = int(p_value_col)
+                        p_val = float(parts[p_value_col])
+                        p_val_cutoff = float(p_val_cutoff)
+                        if p_val >= p_val_cutoff:
+                            continue
+                    if log2_fc_col:
+                        log2_fc_col = int(log2_fc_col)
+                        log2_fc = float(parts[log2_fc_col])
+                        log2_fc_cutoff = float(log2_fc_cutoff)
+                        if abs(log2_fc) < log2_fc_cutoff:
+                            continue
+                    genes_to_write.append(gene)
         num_genes_to_write = len(genes_to_write)
 
         if species == "human":
