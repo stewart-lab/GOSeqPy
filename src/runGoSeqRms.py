@@ -92,6 +92,10 @@ def main():
         gs_to_genes = gsp.parse_gmt(
             "../data/gene_sets/c5.bp.v7.1.symbols.gmt"
         )  # all #RMS. make this file a parameter
+    elif species == "mouse":  # RMS. started to get it work with mouse, but didn't finish because need gene length file (json stuff)
+        gs_to_genes = gsp.parse_gmt(
+            "../data/gene_sets/m5.go.bp.v2023.2.Mm.symbols.gmt"
+        )  # all #RMS. make this file a parameter
     elif species == "drosophila_flydb":
         # gs_to_genes = gsp.parse_gmt('./gene_sets/drosophila_genesets_symbol4.txt')  #RMS. make this file a parameter
         gs_to_genes = gsp.parse_gmt(
